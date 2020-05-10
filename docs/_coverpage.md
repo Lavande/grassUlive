@@ -11,4 +11,4 @@
 - 自由、清新、友谊
 
 [帮助建设](https://github.com/Lavande/grassUlive)
-[立即参与活动](#背景)
+[立即参与活动](overview)
